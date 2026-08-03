@@ -1,0 +1,2 @@
+/* Component-level styling now lives alongside each component via MUI's sx prop
+   and the shared theme in src/theme.js. This file is kept intentionally minimal. */
