@@ -53,8 +53,8 @@ function Expertise() {
       <Container maxWidth="lg">
         <SectionHeading
           eyebrow="What I Bring"
-          title="Delivery & Technology Expertise"
-          subtitle="Currently deepening my Oracle Cloud HCM expertise, while staying close to the engineering craft that shaped my career."
+          title="Delivery, Program & Technology Expertise"
+          subtitle="Currently deepening my Enterprise AI landscape along with Oracle Cloud HCM & Retail expertise, while staying close to the engineering craft that shaped my career."
         />
         <Grid container spacing={3}>
           {categories.map((cat) => (
