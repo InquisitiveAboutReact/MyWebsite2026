@@ -72,8 +72,11 @@ function HeaderComponent() {
               mb: 4,
             }}
           >
+            18+ years of experience in IT Industry, currently working as a Technical Delivery Manager, managing a large team for Oracle Retail AMS & Implementation project. 
+            Have solid experience and exposures on handling multiple complex programs, planning, budgeting, Transition planning, resourcing, financials, customer engagements & stakeholder management.
+            <br></br>
             I lead cross-cultural delivery teams through complex enterprise programs —
-            spanning Oracle Fusion HCM, Salesforce, Guidewire and modern CI/CD —
+            spanning Oracle Fusion HCM, Oracle Retail, Salesforce, SAP Concur, Guidewire and modern CI/CD —
             turning ambitious roadmaps into shipped, stable outcomes.
           </Typography>
 
