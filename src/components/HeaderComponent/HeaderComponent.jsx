@@ -15,8 +15,8 @@ const navlinks = [
 ];
 
 const stats = [
-  { value: '17+', label: 'Years in IT Delivery' },
-  { value: '5', label: 'Professional Certifications' },
+  { value: '18+', label: 'Years in IT Delivery' },
+  { value: '6', label: 'Professional Certifications' },
   { value: 'Global', label: 'Cross-Cultural Team Leadership' },
 ];
 
