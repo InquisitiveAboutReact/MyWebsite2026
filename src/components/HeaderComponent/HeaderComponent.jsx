@@ -66,15 +66,18 @@ function HeaderComponent() {
             variant="h6"
             sx={{
               color: 'rgba(255,255,255,0.82)',
-              fontWeight: 400,
-              maxWidth: 640,
-              lineHeight: 1.6,
-              mb: 4,
+    fontFamily: '"Poppins", "Montserrat", sans-serif',
+    fontSize: '1.05rem',
+    fontWeight: 400,
+    letterSpacing: '0.01em',
+    lineHeight: 1.65,
+    maxWidth: 900,
+    mb: 4,
             }}
           >
            Technical Delivery Manager with 18+ years in IT services, currently leading a 40+ member Application Managed Services build for a global retail account across eight delivery towers. Proven track record standing up delivery organizations from the ground up (30+ applications and large teams), owning end-to-end transition, resourcing, RFPs, Technical POCs and customer engagement for engagements spanning MAANG, retail, insurance, and pharmaceutical clients. Recognized for driving Gen-AI and automation adoption at account level, strong stakeholder and P&L management, and a hands-on UI/architecture background that bridges technical delivery with business outcomes.
 
-          Currently working & a part of key leadership suits, building a large & strong team of 200+ professionals of a critical engagements on Oracle Retail.  
+           Currently working & a part of key leadership suits, building a large & strong team of 200+ professionals of a critical engagements on Oracle Retail.  
 
           </Typography>
 
