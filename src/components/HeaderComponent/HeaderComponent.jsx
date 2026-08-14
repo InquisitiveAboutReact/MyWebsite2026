@@ -75,10 +75,18 @@ function HeaderComponent() {
               mb: 4,
             }}
           >
-           Technical Delivery Manager with 18+ years in IT services, currently leading a 40+ member Application Managed Services build for a global retail account across eight delivery towers. Proven track record standing up delivery organizations from the ground up (30+ applications and large teams), owning end-to-end transition, resourcing, RFPs, Technical POCs and customer engagement for engagements spanning MAANG, retail, insurance, and pharmaceutical clients. Recognized for driving Gen-AI and automation adoption at account level, strong stakeholder and P&L management, and a hands-on UI/architecture background that bridges technical delivery with business outcomes.
-
-           Currently working & a part of key leadership suits, building a large & strong team of 200+ professionals of a critical engagements on Oracle Retail.  
-
+           Technical Delivery Manager with 18+ years of experience in IT services, 
+           currently leading a 40+ member Application Managed Services organization 
+           for a global retail account spanning eight delivery towers. 
+           Proven track record of building delivery organizations from the ground up, 
+           overseeing 30+ applications and large-scale teams, with end-to-end ownership 
+           across transitions, resourcing, RFPs, technical POCs, and customer engagement 
+           across MAANG, retail, insurance, and pharmaceutical clients. Recognized for 
+           driving Gen-AI and automation adoption at the account level, with strong 
+           stakeholder and P&L management capabilities and a hands-on UI/architecture 
+           background that bridges technology delivery with business outcomes. 
+           Currently part of the key leadership team, building and scaling a 200+ member 
+           organization supporting critical Oracle Retail engagements.
           </Typography>
 
           <Stack direction={{ xs: 'column', sm: 'row' }} spacing={2} sx={{ mb: 7 }}>
