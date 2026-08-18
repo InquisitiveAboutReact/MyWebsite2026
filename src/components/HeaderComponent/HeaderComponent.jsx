@@ -78,7 +78,7 @@ function HeaderComponent() {
             }}
           >
            Technical Delivery Manager with 18+ years of experience in IT services, 
-           currently leading a 40+ member Application Managed Services organization 
+           currently leading a 40+ members Application Managed Services organization 
            for a global retail account spanning eight delivery towers. 
            Proven track record of building delivery organizations from the ground up, 
            overseeing 30+ applications and large-scale teams, with end-to-end ownership 
