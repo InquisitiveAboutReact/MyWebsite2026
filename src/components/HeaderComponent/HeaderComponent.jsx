@@ -15,8 +15,8 @@ const navlinks = [
 ];
 
 const stats = [
-  { value: '17+', label: 'Years in IT Delivery' },
-  { value: '5', label: 'Professional Certifications' },
+  { value: '18+', label: 'Years in IT Delivery' },
+  { value: '6', label: 'Professional Certifications' },
   { value: 'Global', label: 'Cross-Cultural Team Leadership' },
 ];
 
@@ -46,7 +46,9 @@ function HeaderComponent() {
             variant="overline"
             sx={{ color: palette.gold, letterSpacing: '0.2em', fontSize: 13 }}
           >
-            Technical Delivery & Enterprise AI digital Builder !
+
+            Technical Delivery Manager | Enterprise IT & AI-Enabled Delivery Leader
+
           </Typography>
 
           <Typography
@@ -65,16 +67,28 @@ function HeaderComponent() {
           <Typography
             variant="h6"
             sx={{
-              color: 'rgba(255,255,255,0.82)',
+              color: '#C9D8E8',
+              fontFamily: '"Poppins", sans-serif',
+              fontSize: '16px',
               fontWeight: 400,
-              maxWidth: 640,
-              lineHeight: 1.6,
+              letterSpacing: '0.01em',
+              lineHeight: 1.65,
+              maxWidth: '1100px',
               mb: 4,
             }}
           >
-            I lead cross-cultural delivery teams through complex enterprise programs —
-            spanning Oracle Fusion HCM, Salesforce, Guidewire and modern CI/CD —
-            turning ambitious roadmaps into shipped, stable outcomes.
+           Technical Delivery Manager with 18+ years of experience in IT services, 
+           currently leading a 40+ member Application Managed Services organization 
+           for a global retail account spanning eight delivery towers. 
+           Proven track record of building delivery organizations from the ground up, 
+           overseeing 30+ applications and large-scale teams, with end-to-end ownership 
+           across transitions, resourcing, RFPs, technical POCs, and customer engagement 
+           across MAANG, retail, insurance, and pharmaceutical clients. Recognized for 
+           driving Gen-AI and automation adoption at the account level, with strong 
+           stakeholder and P&L management capabilities and a hands-on UI/architecture 
+           background that bridges technology delivery with business outcomes. 
+           Currently part of the key leadership team, building and scaling a 200+ member 
+           organization supporting critical Oracle Retail engagements.
           </Typography>
 
           <Stack direction={{ xs: 'column', sm: 'row' }} spacing={2} sx={{ mb: 7 }}>
