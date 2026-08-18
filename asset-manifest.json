@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyWebsite2026/static/css/main.be530515.css",
-    "main.js": "/MyWebsite2026/static/js/main.4b6382e5.js",
+    "main.js": "/MyWebsite2026/static/js/main.43d5a1c4.js",
     "static/media/cover1.jpg": "/MyWebsite2026/static/media/cover1.3224c40fb4ef7d744af3.jpg",
     "static/media/profile.jpg": "/MyWebsite2026/static/media/profile.2c2fb5f2631d3512ee26.jpg",
     "static/media/oracle-cert-3.jpg": "/MyWebsite2026/static/media/oracle-cert-3.b03bf336d66612a67993.jpg",
@@ -9,10 +9,10 @@
     "static/media/oracle-cert-2.jpg": "/MyWebsite2026/static/media/oracle-cert-2.a69c54749d640a4ed40c.jpg",
     "index.html": "/MyWebsite2026/index.html",
     "main.be530515.css.map": "/MyWebsite2026/static/css/main.be530515.css.map",
-    "main.4b6382e5.js.map": "/MyWebsite2026/static/js/main.4b6382e5.js.map"
+    "main.43d5a1c4.js.map": "/MyWebsite2026/static/js/main.43d5a1c4.js.map"
   },
   "entrypoints": [
     "static/css/main.be530515.css",
-    "static/js/main.4b6382e5.js"
+    "static/js/main.43d5a1c4.js"
   ]
 }
