@@ -46,7 +46,7 @@ function HeaderComponent() {
             variant="overline"
             sx={{ color: palette.gold, letterSpacing: '0.2em', fontSize: 13 }}
           >
-            Technical Delivery & Program Manager
+            Technical Delivery & Enterprise AI digital Builder !
           </Typography>
 
           <Typography
