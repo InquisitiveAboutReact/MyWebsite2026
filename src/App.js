@@ -8,6 +8,7 @@ import WorkSamples from './components/BodyComponent/WorkSamples';
 import AskExperience from './components/BodyComponent/AskExperience';
 import Contact from './components/BodyComponent/Contact';
 import Footer from './components/BodyComponent/Footer';
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   // Chatbase widget — reads the embed ID from the environment, never hardcoded.
@@ -42,6 +43,7 @@ function App() {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <HeaderComponent />
+       <Analytics  />
       <Suspense fallback={<div>Loading...</div>}>
         <Expertise />
         <Certifications />
@@ -51,6 +53,7 @@ function App() {
         <Footer />
       </Suspense>
     </ThemeProvider>
+    
   );
 }
 
