@@ -88,7 +88,7 @@ function HeaderComponent() {
            stakeholder and P&L management capabilities and a hands-on UI/architecture 
            background that bridges technology delivery with business outcomes. 
            Currently part of the key leadership team, building and scaling a 200+ member 
-           organization supporting critical Oracle Retail engagements.
+           organization supporting critical Oracle Retail engagements!!
           </Typography>
 
           <Stack direction={{ xs: 'column', sm: 'row' }} spacing={2} sx={{ mb: 7 }}>
