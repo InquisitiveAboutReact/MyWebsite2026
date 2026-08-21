@@ -12,12 +12,9 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^14.3.1",
     "@testing-library/user-event": "^14.5.2",
-<<<<<<< HEAD
     "cors": "^2.8.6",
     "express": "^5.2.1",
-=======
     "@vercel/analytics": "^2.0.1",
->>>>>>> 1039feb (Added code for Vercel Analytics)
     "gh-pages": "^6.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
